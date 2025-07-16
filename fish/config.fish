@@ -18,3 +18,5 @@ function wal
         source ~/.cache/wal/colors.fish
     end
 end
+alias pp "macchina"
+
