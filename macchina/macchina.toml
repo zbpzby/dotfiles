@@ -1,0 +1,3 @@
+theme = "pp"
+interface = "wlan0"
+show = ["Host","Kernel","Distribution","WindowManager","Shell","Terminal","Memory","LocalIP","GPU","Battery"]

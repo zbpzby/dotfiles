@@ -1,0 +1,50 @@
+
+separator = "»"
+separator_color="red"
+key_color="red"
+prefer_small_ascii = true
+
+[palette]
+type="Dark"
+visible=true
+glyph=" ⬤ "
+
+[box]
+title="PP"
+border="double"
+visible=true
+
+[bar]
+hide_delimiters=false
+visible=false
+
+[randomize]
+key_color=false
+separator_color=false
+[custom_ascii]
+path = "~/.config/macchina/themes/pp.txt"
+
+[box.inner_margin]
+x = 2
+y = 1
+[keys]
+host = "  host"
+kernel = "󰌽  kernel"
+battery = "󰁹  battery"
+os = "  os"
+de = "  de"
+wm = "  wm"
+distro = "  distro"
+terminal = "  terminal"
+shell = "  shell"
+packages = "  packages"
+uptime = "󰥔  uptime"
+memory = "󰍛  memory"
+machine = "󰇅  machine"
+local_ip = "󰱓  ip"
+backlight = "󰃞  brightness"
+resolution = "󰍺  resolution"
+cpu_load = "󰊚  cpu load"
+cpu = "  cpu"
+gpu = "󰈐  gpu"
+disk_space = "  disk space"
